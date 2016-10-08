@@ -1,0 +1,7 @@
+deploy_ip: 192.168.122.233
+deploy_port: 22
+deploy_user: mike
+deploy_key: '/home/user/.ssh/id_rsa'
+deploy_pub: '/home/user/.ssh/id_rsa.pub'
+deploy_mysqluser: rootn
+deploy_mysqlpass: PasswordForMysqlRoot

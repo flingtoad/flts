@@ -1,0 +1,73 @@
+# carton snapshot format: version 1.0
+DISTRIBUTIONS
+  Data-Random-0.12
+    pathname: B/BA/BAREFOOT/Data-Random-0.12.tar.gz
+    provides:
+      Data::Random 0.12
+      Data::Random::WordList 0.12
+    requirements:
+      Carp 0
+      ExtUtils::MakeMaker 6.36
+      File::Temp 0
+      Test::More 0.88
+      Time::Piece 1.16
+      YAML::Tiny 0
+      perl 5.00562
+  IO-Prompt-0.997003
+    pathname: D/DC/DCONWAY/IO-Prompt-0.997003.tar.gz
+    provides:
+      IO::Prompt 0.997003
+      IO::Prompt::ReturnVal 0.997003
+    requirements:
+      ExtUtils::MakeMaker 0
+      IO::Handle 0
+      POSIX 0
+      Term::ReadKey 0
+      Test::More 0
+      Want 0
+      version 0
+  TermReadKey-2.33
+    pathname: J/JS/JSTOWE/TermReadKey-2.33.tar.gz
+    provides:
+      Term::ReadKey 2.33
+    requirements:
+      ExtUtils::MakeMaker 0
+  Time-Piece-1.31
+    pathname: E/ES/ESAYM/Time-Piece-1.31.tar.gz
+    provides:
+      Time::Piece 1.31
+      Time::Seconds 1.31
+    requirements:
+      Exporter 5.57
+      ExtUtils::MakeMaker 0
+  Try-Tiny-0.22
+    pathname: D/DO/DOY/Try-Tiny-0.22.tar.gz
+    provides:
+      Try::Tiny 0.22
+    requirements:
+      Carp 0
+      Exporter 5.57
+      ExtUtils::MakeMaker 6.30
+      constant 0
+      strict 0
+      warnings 0
+  Want-0.26
+    pathname: R/RO/ROBIN/Want-0.26.tar.gz
+    provides:
+      Want 0.26
+    requirements:
+      ExtUtils::MakeMaker 0
+  YAML-Tiny-1.69
+    pathname: E/ET/ETHER/YAML-Tiny-1.69.tar.gz
+    provides:
+      YAML::Tiny 1.69
+    requirements:
+      B 0
+      Carp 0
+      Exporter 0
+      ExtUtils::MakeMaker 0
+      Fcntl 0
+      Scalar::Util 0
+      perl 5.008001
+      strict 0
+      warnings 0

@@ -1,0 +1,6 @@
+defaults.yml
+deploy-vars.yml
+local-vars.yml
+\#.*\#
+local/
+flts-ssh_id.*
