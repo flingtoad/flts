@@ -1,5 +1,6 @@
 Flingtoad Flts
 ==============
+This project was a demo for working with Rex (https://github.com/RexOps/Rex)
 
 This Rex script is used to deploy a client's Django project on a clean server.
 
